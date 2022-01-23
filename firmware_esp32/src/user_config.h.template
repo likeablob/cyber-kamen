@@ -1,0 +1,5 @@
+
+#ifdef ENABLE_OTA
+#define OTA_WIFI_SSID "..."
+#define OTA_WIFI_PASSWORD "..."
+#endif
